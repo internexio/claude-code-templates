@@ -178,10 +178,10 @@ People judge experiences by the peak (best or worst moment) and the end, not the
 
 **Marketing application**: Design memorable peaks (surprise upgrades, delightful moments) and strong endings (thank you pages, follow-up emails).
 
-### Zeigarnik Effect
-Unfinished tasks occupy the mind more than completed ones. Open loops create tension.
+### Information-Gap Theory
+When people perceive a specific gap between what they know and what they want to know, they feel compelled to close it. The gap must be named and concrete — vague curiosity doesn't drive action, but a specific unknown does. (Loewenstein 1994; replaces the Zeigarnik effect, which does not replicate in meta-analysis: recall ratio 0.99 when excluding the original study.)
 
-**Marketing application**: "You're 80% done" creates pull to finish. Incomplete profiles, abandoned carts, and cliffhangers leverage this.
+**Marketing application**: "Here's what most marketers miss about retention" or "The one metric that predicts churn before it happens" creates pull by naming a specific gap. Effective in subject lines, headlines, and CTAs. Cliffhangers and incomplete reveals work through this mechanism — not task incompleteness.
 
 ### Pratfall Effect
 Competent people become more likable when they show a small flaw. Perfection is less relatable.
@@ -423,7 +423,7 @@ When facing a marketing challenge, consider:
 | Low conversions | Hick's Law, Activation Energy, BJ Fogg, Friction |
 | Price objections | Anchoring, Framing, Mental Accounting, Loss Aversion |
 | Building trust | Authority, Social Proof, Reciprocity, Pratfall Effect |
-| Increasing urgency | Scarcity, Loss Aversion, Zeigarnik Effect |
+| Increasing urgency | Scarcity, Loss Aversion, Information-Gap Theory |
 | Retention/churn | Endowment Effect, Switching Costs, Status-Quo Bias |
 | Growth stalling | Theory of Constraints, Local vs Global Optima, Compounding |
 | Decision paralysis | Paradox of Choice, Default Effect, Nudge Theory |
